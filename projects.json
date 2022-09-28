@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Game Info",
+      "live": "https://game-info-project.netlify.app/",
+      "git": "https://github.com/ilsuryuz/Game-Info",
+      "image": "https://i.imgur.com/Eky3nkV.png"
+    },
+    {
+      "name": "Scap",
+      "live": "https://scap-forum.herokuapp.com/",
+      "git": "https://github.com/ilsuryuz/Scap",
+      "image": "https://i.imgur.com/SmFfzQO.png"
+    }
+  ]
